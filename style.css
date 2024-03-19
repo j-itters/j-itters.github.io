@@ -1,0 +1,77 @@
+.map {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    width: 100%;
+}
+/* this section is used to create the legend */
+
+ /*-------------------------------------------------------------------*/
+
+.legend {
+    position: absolute;
+    display : none;
+    background-color: #fff;
+    border-radius: 3px;
+    margin-bottom: 30px;
+    font: 12px/20px 'Helvetica Neue', Arial, Helvetica, sans-serif;
+    padding: 10px;
+    left: 100px;
+    bottom: 100px;
+    z-index: 1;
+  }
+  
+.legend h4 {
+    margin: 0 0 10px;
+  }
+  
+.legend-key {
+    display: inline-block;
+    border-radius: 50%; /*curve border to make a circle*/
+    height: 10px; /*size of circle*/
+    width: 10px;
+    margin-right: 5px; /*position of circle*/
+  }
+  
+ /*-------------------------------------------------------------------*/
+
+ /* this section is used to create the 2 containers on the left */
+
+ /*-------------------------------------------------------------------*/
+
+.map-data-container {
+    position: relative;
+    font: 14px/20px 'Helvetica Neue', Arial, Helvetica, sans-serif;
+    background: rgba(255, 255, 255, 0.8);
+    width: 260px;
+    top: 0;
+    left: 10px;
+    margin-top: 10px;
+    padding: 10px;
+    overflow: visible;
+}
+
+.map-data-container2 {
+    position: relative;
+    font: 14px/20px 'Helvetica Neue', Arial, Helvetica, sans-serif;
+    background: rgba(255, 255, 255, 0.8);
+    width: 260px;
+    top: 0;
+    left: 10px;
+    margin-top: 10px;
+    padding: 10px;
+    overflow: visible;
+}
+
+ /*-------------------------------------------------------------------*/
+  
+label {
+    width: 95%;
+    padding-top: 10px;
+}
+
+form {
+    padding-bottom: 20px;
+}
