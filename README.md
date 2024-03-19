@@ -3,7 +3,7 @@
   
 URL: https://j-itters.github.io./  
   
-This repository contains the starter code required to complete Lab 4. The lab is designed to help you learn how to perform spatial analysis and visualize outputs using the [Turf.js](https://turfjs.org/) and [Mapbox GL JS](https://docs.mapbox.com/mapbox-gl-js/api/) libraries.  
+This repository contains the code for Lab 4. In this lab, I will perform spatial analysis and visualize outputs using the [Turf.js](https://turfjs.org/) and [Mapbox GL JS](https://docs.mapbox.com/mapbox-gl-js/api/) libraries.  
 
   
 ## Repository Contents
